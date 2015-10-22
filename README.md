@@ -1,2 +1,2 @@
 # web_calendar_odoo
-Odoo calendar implement en OpenERP7
+Odoo calendar implement in OpenERP7
